@@ -1,0 +1,11 @@
+10
+1,headache,low risk
+2,shortness of breath,high risk
+3,tightness,high risk
+4,fever,low risk
+5,diarrhea,high risk
+6,sore throat,medium risk
+7,tiredness,low risk
+8,dry cough,medium risk
+9,loss of taste,high risk
+10,unable to wake up or stay awake,high risk
