@@ -1,0 +1,15 @@
+14
+1312,Steven Ngo,22/07/2001,Cape York,0967125642,12 13 ,12/12/2020,Yes,1 2 ,Positive,Alive
+234234,John Marston,13/12/2001,New York,0987654321,1 2 ,1/12/2021,Yes,1 2 ,Negative,Alive
+34321,Clinton West,14/12/2001,Boston,0123456790,1 2 ,07/04/2021,Yes,1 2 ,Positive,Dead
+443214,Holly Jane,15/12/2001,Philadelphia,0123456791,1 2 ,05/07/2021,Yes,1 2 ,Negative,Alive
+541234,Kanye West,16/12/2001,Brisbane,0123456792,1 2 ,06/03/2021,Yes,1 2 ,Positive,Alive
+642314,Peter Parker,10/12/1987,Cairns,0923654321,5 6 ,12/10/2020,Yes,1 2 ,Positive,Alive
+71234,David Williams,8/12/2001,Darwin,0987444321,1 2 ,14/12/2021,Yes,1 2 ,Negative,Alive
+8412,Jayson Tatum,2/3/1999,Perth,0987654355,1 2 ,14/12/2021,Yes,1 2 ,Negative,Alive
+1,Johny Depth,12/12/1973,22 Wattle Road,01687454908,14 15 ,24/12/2020,Yes,4 5 6,Negative,Alive
+0,Johny Depth,12/12/1973,22 Wattle Road,01687454908,4 6 7,24/12/2020,Yes,4 5 6,,
+2,Harry Macguire,4/5/1983,2 High Street,0974072057,1 2 3,,No,,,
+3,Stephen Curry,11/8/1990,3 Rochester Street,0459876414,16 ,,No,9,Positive,Dead
+4,Michael Jackson,21/08/1962,Highpoint SC,09210803,,,No,1,,
+5,Lebron James,12/05/1974,69 Auburn Road,045120504,,,No,,,
